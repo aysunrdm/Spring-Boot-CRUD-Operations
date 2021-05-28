@@ -4,6 +4,7 @@
 
 
 PROJE TANITIM
+
 •	Bu projede Java 8 ile Spring Boot kullanılarak crud işlemleri gerçekleştirilmiştir. 
 
 •	Crud işlemleri Create, Read, Update ve Delete olmak üzere 4 aşamadan meydana gelmektedir. 
