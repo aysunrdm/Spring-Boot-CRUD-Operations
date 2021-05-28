@@ -1,8 +1,7 @@
-# Spring-Boot-CRUD-Operations
+# Spring Boot CRUD Operations
 
  
 
-SPRING BOOT CRUD OPERATIONS
 
 PROJE TANITIM
 •	Bu projede Java 8 ile Spring Boot kullanılarak crud işlemleri gerçekleştirilmiştir. 
