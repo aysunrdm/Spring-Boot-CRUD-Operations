@@ -3,7 +3,7 @@
  
 
 
-PROJE TANITIM
+**PROJE TANITIM
 
 •	Bu projede Java 8 ile Spring Boot kullanılarak crud işlemleri gerçekleştirilmiştir. 
 
