@@ -12,6 +12,7 @@ PROJE TANITIM
 •	Bu işlemler REST API 'ler aracılığı ile yerine getirilmiştir. 
 
 •	Proje genelinde OOP prensiplerine uyulmuştur. 
+
 •	API 'ler Postman arayüzü ile test edilmiştir.
 
 KULLANILAN TEKNOLOJİLER
