@@ -5,6 +5,7 @@
 
 **PROJE TANITIM**
 
+
 •	Bu projede Java 8 ile Spring Boot kullanılarak crud işlemleri gerçekleştirilmiştir. 
 
 •	Crud işlemleri Create, Read, Update ve Delete olmak üzere 4 aşamadan meydana gelmektedir. 
@@ -15,7 +16,10 @@
 
 •	API 'ler Postman arayüzü ile test edilmiştir.
 
+
+
 **KULLANILAN TEKNOLOJİLER**
+
 
 •	Spring Boot
 •	Spring Framework
@@ -32,6 +36,7 @@
 
 **PROJE TASARIMI**
 
+
 <img src="src/project_design.png"/>
 
 
@@ -42,6 +47,7 @@
 
 
 **PROJE DOSYASININ OLUŞTURULMASI**
+
 
 
  <img src="src/spring-io.png"/>
@@ -73,6 +79,7 @@ Uygulama dosyası boş haliyle çalıştırılmış ve internet üzerinden local
  
  
 
+
 Kodlama işlemi tamamlandıktan sonra proje ayağa kaldırılıp Postman üzerinden test aşamaşına geçildi ve status kodlarla birlikte veritabanı üzerinden işlemler kontrol edildi.
 
 
@@ -83,7 +90,9 @@ Kodlama işlemi tamamlandıktan sonra proje ayağa kaldırılıp Postman üzerin
 
 **POSTMAN TEST**
 
+
 **REST API Oluşturma**
+
 HTTP Method: POST 
  
 <img src="src/post.jpg"/>
@@ -103,12 +112,15 @@ HTTP Method: GET
  
 <img src="src/get.jpg"/>
 
+
+
 **REST API Güncelleme**
 
 HTTP Method: PUT
 
  
 <img src="src/put.jpg"/>
+
 
 
 **REST API Silme**
