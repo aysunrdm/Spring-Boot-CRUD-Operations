@@ -3,7 +3,7 @@
  
 
 
-**PROJE TANITIM
+**PROJE TANITIM**
 
 •	Bu projede Java 8 ile Spring Boot kullanılarak crud işlemleri gerçekleştirilmiştir. 
 
@@ -15,7 +15,7 @@
 
 •	API 'ler Postman arayüzü ile test edilmiştir.
 
-KULLANILAN TEKNOLOJİLER
+**KULLANILAN TEKNOLOJİLER**
 
 •	Spring Boot
 •	Spring Framework
@@ -30,20 +30,20 @@ KULLANILAN TEKNOLOJİLER
 
 
 
-PROJE TASARIMI 
+**PROJE TASARIMI**
 
 
 
 
-PROJE PAKET YAPISI
-
-
- 
-
+**PROJE PAKET YAPISI**
 
 
  
-KULLANILAN FONKSİYONLAR
+
+
+
+ 
+**KULLANILAN FONKSİYONLAR**
 
 
 
@@ -52,7 +52,7 @@ KULLANILAN FONKSİYONLAR
 
 
 
-PROJE DOSYASININ OLUŞTURULMASI
+**PROJE DOSYASININ OLUŞTURULMASI**
 
  
 
@@ -71,7 +71,7 @@ Yukarıdaki resimde görüldüğü üzere proje taslağı https://spring.io/ web
 
 
 
-VERİTABANI BAĞLANTISI VE MYSQL DRIVER EKLENMESİ
+**VERİTABANI BAĞLANTISI VE MYSQL DRIVER EKLENMESİ**
 
  
 
@@ -106,9 +106,9 @@ Kodlama işlemi tamamlandıktan sonra proje ayağa kaldırılıp Postman üzerin
 
 
 
-POSTMAN TEST
+**POSTMAN TEST**
 
-REST API Oluşturma
+**REST API Oluşturma**
 HTTP Method: POST 
  
  
@@ -121,18 +121,18 @@ Developer oluşturmak için Postman aracılığı ile JSON tipinde request atıl
 
 
 
-REST API Listeleme
+**REST API Listeleme**
 HTTP Method: GET
  
 
-REST API Güncelleme
+**REST API Güncelleme**
 HTTP Method: PUT
  
 
 
 
 
-REST API Silme
+**REST API Silme**
 HTTP Method: DELETE
  
 
